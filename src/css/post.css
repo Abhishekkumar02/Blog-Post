@@ -1,0 +1,10 @@
+.post{
+    /* margin-left : 20px; */
+    padding: 12px 25px;
+    border: none;
+    background: rgb(39,39,39);
+    color:white;
+    font-size:14px;
+    font-weight: 500;
+    cursor:pointer
+}

@@ -1,0 +1,34 @@
+.navbar{
+    display :flex;
+    justify-content: space-between;
+    height :13vh;
+    align-items :center;
+    padding: 0px 80px;
+    backgroud: white;
+    background: #1b1b1d;
+    color: white;
+}
+.navbar_header{
+    font-size: 20px;
+    font-weight: 700;
+}
+.Logout_button{
+    margin-left : 20px;
+    padding: 12px 25px;
+    border-radius: 50px;
+    border: none;
+    background: rgb(39,39,39);
+    color:white;
+    font-size:14px;
+    font-weight: 500;
+    cursor:pointer
+}
+.signIn{
+    font-size: 15px;
+    padding-size:10px;
+    cursor:pointer
+}
+.navbar_user{
+    display: flex;
+    align-items: center;
+}

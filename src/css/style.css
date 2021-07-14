@@ -1,0 +1,21 @@
+.home_page{
+    height: 87vh;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    width: 50px;
+    margin:0 auto;
+    text-align: center;
+}
+
+.login_button {
+    width: 300px;
+    margin: 15px auto 0px auto;
+    padding: 15px 0;
+    border:none;
+    background: rgb(17,17,17);
+    color: white;
+    font-size:15px;
+    font-weight: 500;
+    cursor:pointer;
+}
